@@ -1,5 +1,5 @@
-
 import { assets } from "../../assets/assets";
+import SearchBar from "./SearchBar";
 
 const Hero = () => {
   return (
